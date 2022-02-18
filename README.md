@@ -1,2 +1,5 @@
 # Java-Standar-Classes
-Materi ini dikhususkan untuk membahas class-class yang ada di Java, terutama di Java Edition yang sering sekali digunakan ketika ingin membuat suatu aplikasi.
+## Random Class
+* `Random class` adalah class yang bisa kita gunakan **untuk men-generate random number**.
+* Kita bisa tentukan nilai terkecilnya berapa, nilai terbesarnya berapa di class Random ini. 
+* [Random Docs](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Random.html)
