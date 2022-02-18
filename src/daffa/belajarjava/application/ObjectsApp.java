@@ -55,9 +55,12 @@ public class ObjectsApp {
 
         // tanpa Objects -> harus melakukan pengecekan
         if (data != null) {
+//            data.toString();
+//            data.hashCode();
             System.out.println(data.toString());
             System.out.println(data.hashCode());
         }
+
 
         // Dengan Objects -> tanpa pengecekan kembali
         System.out.println(Objects.toString(data));
