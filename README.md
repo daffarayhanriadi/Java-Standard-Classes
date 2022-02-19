@@ -19,3 +19,5 @@ Materi ini dikhususkan untuk membahas class-class yang ada di Java, terutama di 
 * [Properties Class](https://github.com/Daffarr/Java-Standar-Classes/tree/propertiesClass)
 * [Arrays Class](https://github.com/Daffarr/Java-Standar-Classes/tree/arraysClass)
 * [Regular Expression Class](https://github.com/Daffarr/Java-Standar-Classes/tree/regularExpression)
+
+Selain Class yang diatas masih banyak Class lainnya silahkan pelajari melalui dokumentasi **Java**
